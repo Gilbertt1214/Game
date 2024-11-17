@@ -38,7 +38,7 @@ const HomePage = () => {
     return (
         <div className="w-[80%] mx-auto">
             <h1 className="text-3xl text-black-600 font-bold flex items-center justify-center mt-5 mb-5 ">
-                SELAMAT DATANG
+               SELAMAT DATANG DI WEB GAME 
             </h1>
             <div className="flex items-center justify-center ">
                 <p className="text-lg text-gray-700 font-medium max-w-prose ">
